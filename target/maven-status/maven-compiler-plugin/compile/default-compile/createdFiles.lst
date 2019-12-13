@@ -1,0 +1,4 @@
+spittr\spring\mvc\config\SpittrWebAppInitializer.class
+spittr\spring\mvc\config\WebConfig.class
+spittr\spring\mvc\web\HomeController.class
+spittr\spring\mvc\config\RootConfig.class
