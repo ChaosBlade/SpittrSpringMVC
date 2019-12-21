@@ -1,4 +1,13 @@
+spittr\spring\mvc\data\SpitterRepositoryImpl.class
+spittr\spring\mvc\web\SpitterController.class
+spittr\spring\mvc\data\SpittleRepository.class
+spittr\spring\mvc\config\DataConfig.class
 spittr\spring\mvc\config\SpittrWebAppInitializer.class
+spittr\spring\mvc\data\SpittleRepositoryImpl.class
 spittr\spring\mvc\config\WebConfig.class
-spittr\spring\mvc\web\HomeController.class
 spittr\spring\mvc\config\RootConfig.class
+spittr\spring\mvc\Spittle.class
+spittr\spring\mvc\data\SpitterRepository.class
+spittr\spring\mvc\web\SpittleController.class
+spittr\spring\mvc\Spitter.class
+spittr\spring\mvc\web\HomeController.class
