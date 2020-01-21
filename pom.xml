@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <jackson.version>2.9.4</jackson.version>
         <log4j.version>2.0.2</log4j.version>
-        <spring.framework.version>5.0.3.RELEASE</spring.framework.version>
+        <spring.framework.version>5.2.3.RELEASE</spring.framework.version>
     </properties>
     
     <dependencies>
